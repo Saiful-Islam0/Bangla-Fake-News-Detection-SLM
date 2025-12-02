@@ -31,8 +31,8 @@ It uses a hybrid architecture that combines:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd Fake_news_detection-main2
+    git clone https://github.com/Saiful-Islam0/Bangla-Fake-News-Detection-SLM.git
+    cd Bangla-Fake-News-Detection-SLM
     ```
 
 2.  **Install dependencies:**
@@ -121,4 +121,4 @@ The following tables summarize performance across languages and input types usin
 | BERTScore | 0.9149 |
 
 ## Contributors
-Rahul Kumar, Rahul Rai, Vishakha Kumari, Manoj Kumar, Mukunda, Pavan Kumar, Rajat Chaudhary
+Saiful Islam
