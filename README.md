@@ -1,4 +1,4 @@
-# Bangla Fake News Detection LLM
+# Bangla Fake News Detection with SLM
 
 This project implements an intelligent system capable of verifying whether a news claim — provided as text or audio — is **REAL**, **FAKE**, or **UNSURE**.
 
